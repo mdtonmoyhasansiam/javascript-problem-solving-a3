@@ -1,4 +1,6 @@
 
+// Problem-01
+
 function newPrice(currentPrice , discount ) {
     if(
         typeof currentPrice !== "number" ||
